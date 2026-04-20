@@ -1,0 +1,1 @@
+1, Reloj, Accesorio, 250002, Corbata, Accesorio, 120003, Camisa, Ropa, 100004, Pantalon, Ropa, 120005, Pulsera, Accesorio, 100006, Zapatillas, Calzado, 350007, Calcetas, Ropa interior, 5000.08, Polera, Ropa, 10000.0
